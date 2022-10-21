@@ -1,0 +1,28 @@
+body{
+
+    background-color:rosybrown;
+    color:white;
+}
+.heading{
+    font-size: 30px;
+    width:80%;
+}
+.sad{
+    color:darkblue;
+}
+.happy{
+    color:brown;
+}
+.angry{
+    color:red
+}
+.crying{
+    color:purple;
+}
+
+
+#camera{
+    border:2px solid black;
+    width:350px;
+    height:300px;
+}
